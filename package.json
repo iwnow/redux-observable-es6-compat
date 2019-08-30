@@ -1,0 +1,30 @@
+{
+  "name": "redux-observable-es6-compat",
+  "version": "1.2.0",
+  "description": "This is build from redux-observable (https://github.com/redux-observable/redux-observable) but fix errors in es2015",
+  "main": "lib/index.js",
+  "sideEffects": false,
+  "scripts": {
+  },
+  "typings": "./index.d.ts",
+  "files": [
+    "dist",
+	  "src",
+    "lib",
+    "index.d.ts",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "Rx",
+    "Ducks",
+    "Reducks",
+    "Redux",
+    "middleware",
+    "observable",
+    "thunk",
+    "async",
+    "cancel",
+    "action"
+  ]
+}
