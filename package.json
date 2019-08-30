@@ -1,11 +1,17 @@
 {
   "name": "redux-observable-es6-compat",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "This is build from redux-observable (https://github.com/redux-observable/redux-observable) but fix errors in es2015",
   "main": "lib/index.js",
   "sideEffects": false,
   "scripts": {
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iwnow/redux-observable-es6-compat.git"
+  },
+  "homepage": "https://github.com/iwnow/redux-observable-es6-compat",
+  "license": "MIT",
   "typings": "./index.d.ts",
   "files": [
     "dist",
